@@ -17,10 +17,6 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
 <a href="https://leetcode.com/u/shloka_pol/">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
 </a>
