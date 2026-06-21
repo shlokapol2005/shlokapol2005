@@ -1,17 +1,5 @@
 <h1 align="center">Hello There, I'm Shloka Pol 👋</h1>
 
-<h3 align="center">Building AI-Powered Products & Scalable Software Systems</h3>
-
----
-
-### 👩‍💻 About Me
-
-- 🎓 Final Year B.Tech Computer Engineering Student
-- 🤖 Interested in Agentic AI, RAG Systems & Data Engineering
-- 🌱 Currently learning LangGraph, MCP, Multi-Agent Systems
-- 💡 Passionate about building impactful AI solutions
-- 🚀 Exploring Full Stack Development & AI Infrastructure
-
 ---
 
 ### 📌 Quick Links
