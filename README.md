@@ -46,6 +46,10 @@
 
 ---
 
-### 💭 Quote
+<div align="center">
 
-> "Every project is a step toward mastery."
+
+
+*"Every project is a step toward mastery."*
+
+</div>
